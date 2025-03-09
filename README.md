@@ -14,7 +14,6 @@ For this project we will try to look for insights regarding the Data job market 
 1. First query ([jobs_posted_vs_salaries](/SQL_Project/jobs_posted_vs_salaries)) of this project was in order to find how many job posting where made, in 2023, for each job category and how do their average yearly salaries compare. 
 
     ![Volume of jobs posted and average salaries](assets/jobs_posted_volume_salaries.png)
-
    *The results of this table indicate that the data job market offers the most job openings. However data analyst roles offer significantly lower average salaries, compared to data scientists and engineers, even though it is in the top of job postings.*
 
 3. Next ([jobs_posted_per_month](/SQL_Project/jobs_posted_per_month)) thing to look into is the volume of job postings throughout 2023, for each month. 
