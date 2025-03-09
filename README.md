@@ -31,7 +31,7 @@ For this project we will try to look for insights regarding the Data job market 
 
     ![Average salaries per month](assets/avg_salaries_per_month.png)
    
-   *In this graph the top 3 data jobs keep, pretty much, a steady average salary througout the 2023. However the machine learning engineers are being offered a significant higher salary as the year comes to its end.*
+   *The Average salary is in USD. In this graph the top 3 data jobs keep, pretty much, a steady average salary througout the 2023. However the machine learning engineers are being offered a significant higher salary as the year comes to its end.*
 
     This result is kind of expected us today it is well known that the past years Machine learning (ML) and AI have had a great improvement and the need for more ML and AI specialists is constantly increasing. So is and the budget that is spent in this sector. 
     (It would be interesting to have more data to look if this trend continued in 2024!)
