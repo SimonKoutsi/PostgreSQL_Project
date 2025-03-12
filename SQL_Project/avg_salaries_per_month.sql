@@ -1,4 +1,3 @@
-
 -- Job posting and salaries per month, for specific job titles, for 2023
 SELECT 
     job_title_short,

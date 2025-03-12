@@ -1,4 +1,3 @@
-
 -- Total job postings for each month for 2023
 SELECT 
     EXTRACT(MONTH FROM job_posted_date) AS posted_month,

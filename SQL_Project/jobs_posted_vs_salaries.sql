@@ -1,4 +1,3 @@
-
 -- Total jobs posted and average yearly salary per job title
 SELECT 
     job_title_short AS job_title,
