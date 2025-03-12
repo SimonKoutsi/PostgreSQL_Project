@@ -30,7 +30,8 @@ FROM
     FROM job_postings_fact
     INNER JOIN skills_job_dim ON job_postings_fact.job_id = skills_job_dim.job_id
     INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
-    WHERE job_title LIKE '%Junior%'
+    WHERE job_title LIKE '%Junior%' OR job_title LIKE '%junior%' OR job_title LIKE '%Entry%Level'
+
 ) AS job_skill
 WHERE simple_job_title IN ('Data Analyst', 'Data Engineer', 'Data Science')
 GROUP BY skills_junior_lvl
